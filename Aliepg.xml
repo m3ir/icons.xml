@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://epg.it999.ru/xmltv.dtd">
+<tv source-info-url="http://epg.it999.ru" source-info-name="EPG it999" source-info-logo="http://epg.it999.ru/images/logo100x100.png" generator-info-name="EPG it999 generator xmltv v2.1" generator-info-url="http://it999.ru">
+<channel id="5070">
+	<display-name lang="he">A+ HD IL</display-name>
+	<icon src="http://epg.it999.ru/img2/5070.png" />
+</channel>
+<channel id="4296">
+	<display-name lang="he">VIP IL: Channel 20</display-name>
+	<display-name lang="he">CHANNEL 20 HD IL</display-name>
+	<display-name lang="he">VIP IL: Channel 14 HD</display-name>
+	<display-name lang="he">Channel 14 IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4296.png" />
+</channel>
+<channel id="2716">
+	<display-name lang="he">VIP IL: Hidabroot Channel</display-name>
+	<display-name lang="he">HIDABRUT IL</display-name>
+	<display-name lang="he">ערוץ ההידברות</display-name>
+	<icon src="http://epg.it999.ru/img2/2716.png" />
+</channel>
+<channel id="5071">
+	<display-name lang="he">VIP IL: Bollywood HD</display-name>
+	<display-name lang="he">VIP IL: HOT Bollywood HD</display-name>
+	<icon src="http://epg.it999.ru/img2/5071.png" />
+</channel>
+<channel id="2701">
+	<display-name lang="he">BABY TV IL</display-name>
+	<display-name lang="he">VIP IL: Baby TV</display-name>
+	<icon src="http://epg.it999.ru/img2/2701.png" />
+</channel>
+<channel id="2700">
+	<display-name lang="he">Channel 98 IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2700.png" />
+</channel>
+<channel id="4307">
+	<display-name lang="he">VIP IL: Disney HD</display-name>
+	<display-name lang="he">Disney Channel IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4307.png" />
+</channel>
+<channel id="2674">
+	<display-name lang="he">VIP IL: Disney Jr</display-name>
+	<display-name lang="he">Disney Jr IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2674.png" />
+</channel>
+<channel id="4005">
+	<display-name lang="he">VIP IL: E! Entertainment</display-name>
+	<icon src="http://epg.it999.ru/img2/4005.png" />
+</channel>
+<channel id="5015">
+	<display-name lang="he">VIP IL: Extreme Sports</display-name>
+	<icon src="http://epg.it999.ru/img2/5015.png" />
+</channel>
+<channel id="2707">
+	<display-name lang="he">VIP IL: Ego Total</display-name>
+	<display-name lang="he">Ego Total IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2707.png" />
+</channel>
+<channel id="2710">
+	<display-name lang="he">Entertainment IL</display-name>
+	<display-name lang="he">HOT ENTERTAINMENT HD IL</display-name>
+	<display-name lang="he">VIP IL: HOT Bidur</display-name>
+	<icon src="http://epg.it999.ru/img2/2710.png" />
+</channel>
+<channel id="2708">
+	<display-name lang="he">VIP IL: Food Channel</display-name>
+	<display-name lang="he">VIP IL: Food Network HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2708.png" />
+</channel>
+<channel id="2686">
+	<display-name lang="he">GOOD LIFE TV IL</display-name>
+	<display-name lang="he">VIP IL: GoodLife</display-name>
+	<display-name lang="he">VIP IL: Fine Living</display-name>
+	<icon src="http://epg.it999.ru/img2/2686.png" />
+</channel>
+<channel id="2698">
+	<display-name lang="he">HOT 3</display-name>
+	<display-name lang="he">VIP IL: HOT 3 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2698.png" />
+</channel>
+<channel id="5024">
+	<display-name lang="he">HOT COMEDY CENTRAL HD IL</display-name>
+	<icon src="http://epg.it999.ru/img2/5024.png" />
+</channel>
+<channel id="2688">
+	<display-name lang="he">VIP IL: HOT Comedy Central HD</display-name>
+	<display-name lang="he">HOT cinema 1 IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2688.png" />
+</channel>
+<channel id="2702">
+	<display-name lang="he">VIP IL: HOT Cinema 2</display-name>
+	<display-name lang="he">VIP IL: HOT Cinema 2 FHD</display-name>
+	<icon src="http://epg.it999.ru/img2/2702.png" />
+</channel>
+<channel id="2703">
+	<display-name lang="he">VIP IL: HOT Cinema 3</display-name>
+	<display-name lang="he">VIP IL: HOT Cinema 3 FHD</display-name>
+	<icon src="http://epg.it999.ru/img2/2703.png" />
+</channel>
+<channel id="2687">
+	<display-name lang="he">VIP IL: HOT Cinema 4 HD</display-name>
+	<display-name lang="he">VIP IL: HOT Cinema 4 FHD</display-name>
+	<display-name lang="he">VIP IL: HOT Cinema 4</display-name>
+	<icon src="http://epg.it999.ru/img2/2687.png" />
+</channel>
+<channel id="5023">
+	<display-name lang="he">VIP IL: HOT 8 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/5023.png" />
+</channel>
+<channel id="5030">
+	<display-name lang="he">VIP IL: The Humor Channel</display-name>
+	<icon src="http://epg.it999.ru/img2/5030.png" />
+</channel>
+<channel id="2709">
+	<display-name lang="he">VIP IL: Health Channel</display-name>
+	<display-name lang="he">Health IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2709.png" />
+</channel>
+<channel id="4014">
+	<display-name lang="he">VIP IL: History</display-name>
+	<display-name lang="he">VIP IL: History HD</display-name>
+	<icon src="http://epg.it999.ru/img2/4014.png" />
+</channel>
+<channel id="2680">
+	<display-name lang="he">HOME PLUS HD IL</display-name>
+	<display-name lang="he">VIP IL: Home Plus</display-name>
+	<display-name lang="he">Home Plus IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2680.png" />
+</channel>
+<channel id="2685">
+	<display-name lang="he">VIP IL: HOT HBO FHD</display-name>
+	<display-name lang="he">VIP IL: HOT HBO HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2685.png" />
+</channel>
+<channel id="2695">
+	<display-name lang="he">VIP IL: Luli</display-name>
+	<display-name lang="he">LULI IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2695.png" />
+</channel>
+<channel id="2691">
+	<display-name lang="he">VIP IL: HOT ZONE HD</display-name>
+	<display-name lang="he">Hot Zone</display-name>
+	<display-name lang="he">Hot Zone HD IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2691.png" />
+</channel>
+<channel id="2697">
+	<display-name lang="he">VIP IL: Junior</display-name>
+	<display-name lang="he">Junior IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2697.png" />
+</channel>
+<channel id="2673">
+	<display-name lang="he">VIP IL: Kan11 FHD</display-name>
+	<display-name lang="he">VIP IL: Kan11 HD</display-name>
+	<display-name lang="he">Kan 11 IL</display-name>
+	<display-name lang="he">VIP IL: Kan11 FHD</display-name>
+	<display-name lang="he">VIP IL: Kan11 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2673.png" />
+</channel>
+<channel id="2711">
+	<display-name lang="he">VIP IL: Channel 23 FHD</display-name>
+	<display-name lang="he">VIP IL: Channel 23 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2711.png" />
+</channel>
+<channel id="2670">
+	<display-name lang="he">VIP IL: Channel 12 FHD</display-name>
+	<display-name lang="he">VIP IL: Channel 12 HD</display-name>
+	<display-name lang="he">VIP IL: Channel 12 SD</display-name>
+	<icon src="http://epg.it999.ru/img2/2670.png" />
+</channel>
+<channel id="4023">
+	<display-name lang="he">VIP IL: MTV Isreal</display-name>
+	<display-name lang="he">MTV Music IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4023.png" />
+</channel>
+<channel id="2712">
+	<display-name lang="he">VIP IL: Makan FHD</display-name>
+	<display-name lang="he">VIP IL: Makan HD</display-name>
+	<display-name lang="he">Mikan IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2712.png" />
+</channel>
+<channel id="4028">
+	<display-name lang="he">VIP IL: Channel 24 FHD</display-name>
+	<display-name lang="he">VIP IL: Channel 24</display-name>
+	<icon src="http://epg.it999.ru/img2/4028.png" />
+</channel>
+<channel id="4311">
+	<display-name lang="he">VIP IL: National Geo Wild HD</display-name>
+	<display-name lang="he">VIP IL: National Geo Wild</display-name>
+	<display-name lang="he">NatGeo Wild HD</display-name>
+	<icon src="http://epg.it999.ru/img2/4311.png" />
+</channel>
+<channel id="2677">
+	<display-name lang="he">VIP IL: National Geographic</display-name>
+	<display-name lang="he">National Geographic IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2677.png" />
+</channel>
+<channel id="2678">
+	<display-name lang="he">VIP IL: Nick Jr</display-name>
+	<display-name lang="he">Nick Jr IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2678.png" />
+</channel>
+<channel id="4009">
+	<display-name lang="he">VIP IL: NickTeen</display-name>
+	<display-name lang="he">Nickelodeon IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4009.png" />
+</channel>
+<channel id="2704">
+	<display-name lang="he">VIP IL: ONE 2 FHD P50</display-name>
+	<display-name lang="he">VIP IL: ONE 2 FHD</display-name>
+	<display-name lang="he">VIP IL: ONE 2 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2704.png" />
+</channel>
+<channel id="2681">
+	<display-name lang="he">VIP IL: ONE 1 FHD P50</display-name>
+	<display-name lang="he">VIP IL: ONE 1 FHD</display-name>
+	<display-name lang="he">VIP IL: ONE 1 HD</display-name>
+	<display-name lang="he">Sport ONE HD IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2681.png" />
+</channel>
+<channel id="2671">
+	<display-name lang="he">VIP IL: Channel 13 FHD</display-name>
+	<display-name lang="he">VIP IL: Channel 13 SD</display-name>
+	<display-name lang="he">Reshet HD (Subs)</display-name>
+	<icon src="http://epg.it999.ru/img2/2671.png" />
+</channel>
+<channel id="2683">
+	<display-name lang="he">VIP IL: YES SPORT2 FHD</display-name>
+	<display-name lang="he">VIP IL: YES SPORT2 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2683.png" />
+</channel>
+<channel id="2684">
+	<display-name lang="he">VIP IL: YES SPORT1 FHD</display-name>
+	<display-name lang="he">VIP IL: YES SPORT1 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2684.png" />
+</channel>
+<channel id="2719">
+	<display-name lang="he">VIP IL: YES SPORT3 FHD</display-name>
+	<display-name lang="he">VIP IL: YES SPORT3 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2719.png" />
+</channel>
+<channel id="2720">
+	<display-name lang="he">VIP IL: YES SPORT4 FHD</display-name>
+	<display-name lang="he">VIP IL: YES SPORT4 HD</display-name>
+	<icon src="http://epg.it999.ru/img2/2720.png" />
+</channel>
+<channel id="3992">
+	<display-name lang="he">VIP IL: Sport 5 Gold</display-name>
+	<display-name lang="he">Sport 5 Gold IL</display-name>
+	<icon src="http://epg.it999.ru/img2/3992.png" />
+</channel>
+<channel id="2682">
+	<display-name lang="he">VIP IL: Sport 5 FHD</display-name>
+	<display-name lang="he">VIP IL: Sport 5 HD</display-name>
+	<display-name lang="he">Sport 5 HD IL</display-name>
+	<display-name lang="he">Sport 5 IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2682.png" />
+</channel>
+<channel id="3993">
+	<display-name lang="he">VIP IL: Sport 5+ Live FHD P50</display-name>
+	<display-name lang="he">VIP IL: Sport 5+ Live FHD</display-name>
+	<display-name lang="he">VIP IL: Sport 5+ Live HD</display-name>
+	<icon src="http://epg.it999.ru/img2/3993.png" />
+</channel>
+<channel id="3994">
+	<display-name lang="he">VIP IL: Sport 5+ Stars FHD P50</display-name>
+	<display-name lang="he">VIP IL: Sport 5+ Stars FHD</display-name>
+	<display-name lang="he">VIP IL: Sport 5+ Stars HD</display-name>
+	<icon src="http://epg.it999.ru/img2/3994.png" />
+</channel>
+<channel id="4312">
+	<display-name lang="he">VIP IL: Sport 5 Plus FHD</display-name>
+	<display-name lang="he">VIP IL: Sport 5 Plus</display-name>
+	<display-name lang="he">Sport 5+ Live HD IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4312.png" />
+</channel>
+<channel id="2675">
+	<display-name lang="he">VIP IL: NickTeen</display-name>
+	<icon src="http://epg.it999.ru/img2/2675.png" />
+</channel>
+<channel id="2692">
+	<display-name lang="he">VIP IL: Travel HD</display-name>
+	<display-name lang="he">VIP IL: Travel</display-name>
+	<display-name lang="he">VIP IL: Travel Channel</display-name>
+	<icon src="http://epg.it999.ru/img2/2692.png" />
+</channel>
+<channel id="4030">
+	<display-name lang="he">VIP IL: Turkish Dramas FHD</display-name>
+	<display-name lang="he">Turkish Drama IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4030.png" />
+</channel>
+<channel id="2718">
+	<display-name lang="he">VIP IL: VIVA</display-name>
+	<display-name lang="he">VIVA IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2718.png" />
+</channel>
+<channel id="2713">
+	<display-name lang="he">VIP IL: VIVA Plus</display-name>
+	<display-name lang="he">Viva+ IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2713.png" />
+</channel>
+<channel id="5087">
+	<display-name lang="he">VIP IL: Yes Wiz</display-name>
+	<icon src="http://epg.it999.ru/img2/5087.png" />
+</channel>
+<channel id="2714">
+	<display-name lang="he">VIP IL: HOP YALDUT</display-name>
+	<icon src="http://epg.it999.ru/img2/2714.png" />
+</channel>
+<channel id="4011">
+	<display-name lang="he">VIP IL: Yam Tihoni</display-name>
+	<display-name lang="he">Yam Tichoni HD IL</display-name>
+	<display-name lang="he">Yamtihoni IL</display-name>
+	<icon src="http://epg.it999.ru/img2/4011.png" />
+</channel>
+<channel id="2972">
+	<display-name lang="he">VIP IL: YES Docu FHD</display-name>
+	<display-name lang="he">VIP IL: YES Docu HD</display-name>
+	<display-name lang="he">Yes Docu FHD IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2972.png" />
+</channel>
+<channel id="2974">
+	<display-name lang="he">VIP IL: YES Cinema HD</display-name>
+	<display-name lang="he">"VIP IL: YES Cinema HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/2974.png" />
+</channel>
+<channel id="2966">
+	<display-name lang="he">YES 2 HD IL</display-name>
+	<display-name lang="he">VIP IL: YES Movies Action FHD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Action HD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Action HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/2966.png" />
+</channel>
+<channel id="2968">
+	<display-name lang="he">YES 4 HD IL</display-name>
+	<display-name lang="he">VIP IL: YES Movies Comedy HD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Comedy FHD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Comedy HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/2968.png" />
+</channel>
+<channel id="2965">
+	<display-name lang="he">VIP IL: YES Movies Drama FHD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Drama HD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Drama HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/2965.png" />
+</channel>
+<channel id="2967">
+	<display-name lang="he">YES 3 HD IL</display-name>
+	<display-name lang="he">VIP IL: YES Movies Kids FHD</display-name>
+	<display-name lang="he">VIP IL: YES Movies Kids HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/2967.png" />
+</channel>
+<channel id="3999">
+	<display-name lang="he">YES TV ACTION HD IL</display-name>
+	<display-name lang="he">VIP IL: YES TV Action FHD</display-name>
+	<display-name lang="he">VIP IL: YES TV Action HD</display-name>
+	<display-name lang="he">VIP IL: YES TV Action HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/3999.png" />
+</channel>
+<channel id="4021">
+	<display-name lang="he">YES TV COMEDY HD IL</display-name>
+	<display-name lang="he">VIP IL: YES Comedy FHD</display-name>
+	<display-name lang="he">VIP IL: YES Comedy HD</display-name>
+	<display-name lang="he">VIP IL: YES Comedy HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/4021.png" />
+</channel>
+<channel id="4007">
+	<display-name lang="he">YES TV DRAMA HD IL</display-name>
+	<display-name lang="he">VIP IL: YES TV Drama FHD</display-name>
+	<display-name lang="he">VIP IL: YES TV Drama HD</display-name>
+	<display-name lang="he">VIP IL: YES TV Drama HD [Multi-Sub]</display-name>
+	<icon src="http://epg.it999.ru/img2/4007.png" />
+</channel>
+<channel id="2690">
+	<display-name lang="he">VIP IL: Zoom</display-name>
+	<icon src="http://epg.it999.ru/img2/2690.png" />
+</channel>
+<channel id="2679">
+	<display-name lang="he">HOP CHILDHOOD IL</display-name>
+	<display-name lang="he">HOP HD IL</display-name>
+	<display-name lang="he">Hop! Yaldut Israelit</display-name>
+	<display-name lang="he">VIP IL: HOP YALDUT</display-name>
+	<display-name lang="he">hop IL</display-name>
+	<icon src="http://epg.it999.ru/img2/2679.png" />
+</channel>
+<channel id="2717">
+	<display-name lang="he">VIP IL: i 24</display-name>
+	<icon src="http://epg.it999.ru/img2/2717.png" />
+</channel>
+<channel id="4306">
+	<display-name lang="he">KNESET CHANNE IL</display-name>
+	<display-name lang="he">VIP IL: Knesset</display-name>
+	<icon src="http://epg.it999.ru/img2/4306.png" />
+</channel>
